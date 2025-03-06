@@ -40,7 +40,7 @@ Feel free to contact me via email for academic discussions or internship opportu
     <div style="background-color: #007bff; color: white; padding: 5px 10px; display: inline-block; border-radius: 5px; margin-bottom: 10px;">
       CVPR 2025
     </div>
-    <img src="../images/paper_text_to_diagram.png" alt="Text-to-Diagram" style="width: 100%; height: auto; border-radius: 5px;">
+    <img src="images/paper_text_to_diagram.png" alt="Text-to-Diagram" style="width: 100%; height: auto; border-radius: 5px;">
   </div>
 
   <!-- 右侧文本，占 2/3 页面宽度 -->
@@ -86,7 +86,7 @@ Feel free to contact me via email for academic discussions or internship opportu
     <div style="background-color: #007bff; color: white; padding: 5px 10px; display: inline-block; border-radius: 5px; margin-bottom: 10px;">
       ECCV 2024
     </div>
-    <img src="../images/eccv.png" alt="Boosting Small Multimodal Models" style="width: 100%; height: auto; border-radius: 5px;">
+    <img src="images/eccv.png" alt="Boosting Small Multimodal Models" style="width: 100%; height: auto; border-radius: 5px;">
   </div>
 
   <!-- 右侧文本，占 60% 页面宽度 -->
@@ -129,7 +129,7 @@ Feel free to contact me via email for academic discussions or internship opportu
     <div style="background-color: #007bff; color: white; padding: 5px 10px; display: inline-block; border-radius: 5px; margin-bottom: 10px;">
       Neural Computing and Applications, 2024
     </div>
-    <img src="../images/ncaa.png" alt="Enhancing Human-like Multimodal Reasoning" style="width: 100%; height: auto; border-radius: 5px;">
+    <img src="images/ncaa.png" alt="Enhancing Human-like Multimodal Reasoning" style="width: 100%; height: auto; border-radius: 5px;">
   </div>
 
   <!-- 右侧文本，占 60% 页面宽度 -->
@@ -175,7 +175,7 @@ Feel free to contact me via email for academic discussions or internship opportu
     <div style="background-color: #007bff; color: white; padding: 5px 10px; display: inline-block; border-radius: 5px; margin-bottom: 10px;">
       Computers in Biology and Medicine, 2024
     </div>
-    <img src="../images/survey.png" alt="Survey on Image-Text Multimodal Models" style="width: 100%; height: auto; border-radius: 5px;">
+    <img src="images/survey.png" alt="Survey on Image-Text Multimodal Models" style="width: 100%; height: auto; border-radius: 5px;">
   </div>
 
   <!-- 右侧文本，占 60% 页面宽度 -->
@@ -220,7 +220,7 @@ Feel free to contact me via email for academic discussions or internship opportu
     <div style="background-color: #007bff; color: white; padding: 5px 10px; display: inline-block; border-radius: 5px; margin-bottom: 10px;">
       ECML-PKDD, 2024
     </div>
-    <img src="../images/pkdd.png" alt="Interpretable Spatiotemporal Predictive Learning" style="width: 100%; height: auto; border-radius: 5px;">
+    <img src="images/pkdd.png" alt="Interpretable Spatiotemporal Predictive Learning" style="width: 100%; height: auto; border-radius: 5px;">
   </div>
 
   <!-- 右侧文本，占 60% 页面宽度 -->
@@ -264,7 +264,7 @@ Feel free to contact me via email for academic discussions or internship opportu
     <div style="background-color: #007bff; color: white; padding: 5px 10px; display: inline-block; border-radius: 5px; margin-bottom: 10px;">
       IJCAI, 2024
     </div>
-    <img src="../images/ijcai2024.png" alt="Knowledge Distillation Study" style="width: 100%; height: auto; border-radius: 5px;">
+    <img src="images/ijcai2024.png" alt="Knowledge Distillation Study" style="width: 100%; height: auto; border-radius: 5px;">
   </div>
 
   <!-- 右侧文本，占 60% 页面宽度 -->
