@@ -1,14 +1,14 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
+# This config file is meant for settings that affect your entire site, values       
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Jingxuan Wei(魏靖烜)"
+description              : "Ph.D. candidate at the University of Chinese Academy of Sciences, focusing on multimodal large model reasoning, multimodal agents, and knowledge distillation. "
+repository               : "weijingxuan/homepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Jingxuan Wei"
+  avatar           : "images/jingxuanwei.png"
+  bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=_rbVn8MAAAAJ"
+  email            : "weijingxuan20@mails.ucas.edu.cn"
+  researchgate     :  #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "weijingxuan"
   google_plus      :
-  keybase          :
+  keybase          : 
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/26/5209.html"
+  orcid            : "https://orcid.org/0000-0001-8520-6347"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -105,6 +105,10 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+
+webrick:
+  headers:
+    Content-Type: text/html
 
 # Markdown Processing
 kramdown:
