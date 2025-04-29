@@ -28,7 +28,7 @@ Feel free to contact me via email for academic discussions or internship opportu
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Sketch-to-Diagram**</span> has been accepted by <span style="color:#a4dded;">**IJCAI 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Chinese Multimodal Attribute Extraction**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Document Retrieval**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
-- *2025.04*: &nbsp;💊 One paper on <span style="color:#a4dded;">**EEG-to-Text**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
+- *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**EEG-to-Text**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
 - *2025.02*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Text-to-Diagram**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2025 (highlight)**</span>.  
 - *2024.07*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought**</span> is accepted by <span style="color:#a4dded;">**ECCV 2024**</span>.  
 - *2024.07*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought**</span> is accepted by <span style="color:#a4dded;">**NCAA**</span>.  
