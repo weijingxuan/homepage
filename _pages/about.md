@@ -25,6 +25,10 @@ Feel free to contact me via email for academic discussions or internship opportu
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎨 Our <span style="color:#a4dded;">**SketchAgent: Generating Structured Diagrams from Hand-Drawn Sketches**</span> has been accepted by <span style="color:#a4dded;">**IJCAI 2025**</span>! This work tackles the challenge of generating structured diagrams from freehand sketches.
+- *2025.04*: &nbsp;🏷️ <span style="color:#a4dded;">**ChiImpAVE: An Open-Source Benchmark for Chinese Implicit Attribute Value Extraction**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>! We present the first open-source benchmark for implicit attribute value extraction in Chinese.
+- *2025.04*: &nbsp;📄 <span style="color:#a4dded;">**Beyond Relevance: Utility-Driven Retrieval for Visual Document Question Answering**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>! This work introduces utility-driven retrieval to improve document QA beyond relevance-based methods.
+- *2025.04*: &nbsp;💊 <span style="color:#a4dded;">**Enhanced Drug-Target Interaction Prediction with Focal Attention and Relative Positional Encoding**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>! We enhance DTI prediction by integrating focal attention with relative positional encoding.
 - *2025.02*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Text-to-Diagram**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2025 (highlight)**</span>.  
 - *2024.07*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought**</span> is accepted by <span style="color:#a4dded;">**ECCV 2024**</span>.  
 - *2024.07*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought**</span> is accepted by <span style="color:#a4dded;">**NCAA**</span>.  
