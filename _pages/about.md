@@ -25,6 +25,7 @@ Feel free to contact me via email for academic discussions or internship opportu
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought Verification**</span> has been accepted by <span style="color:#a4dded;">**ACL 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Sketch-to-Diagram**</span> has been accepted by <span style="color:#a4dded;">**IJCAI 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Chinese Multimodal Attribute Extraction**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Document Retrieval**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
