@@ -25,6 +25,8 @@ Feel free to contact me via email for academic discussions or internship opportu
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Scientific reasoning**</span> has been accepted by <span style="color:#a4dded;">**ACM Multimedia 2025**</span>.
+- *2025.06*: &nbsp;🎉🎉 I joined the <span style="color:#f4b400;">**Seed Team**</span> in <span style="color:#f4b400;">**April 2025**</span>! Congrats to our <span style="color:#f4b400;">**Deep Thinking LLM**</span> for successfully launching and achieving impressive results in the Gaokao! [PR link](https://mp.weixin.qq.com/s/fI8Xx2FvtnPLpREKjykIJA)
 - *2025.05*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought Verification**</span> has been accepted by <span style="color:#a4dded;">**ACL 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Sketch-to-Diagram**</span> has been accepted by <span style="color:#a4dded;">**IJCAI 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Chinese Multimodal Attribute Extraction**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
