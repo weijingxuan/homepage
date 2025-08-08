@@ -25,9 +25,8 @@ Feel free to contact me via email for academic discussions or internship opportu
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our collaborative technical report with the <span style="color:#f4b400;">**Seed Team**</span>, <span style="color:#a4dded;">**StructVRM**</span>, has been released! This work focuses on deep thinking in large models and achieves remarkable performance in mathematical and scientific reasoning. [Paper link](https://arxiv.org/pdf/2508.05383) | [Results link](https://mp.weixin.qq.com/s/fI8Xx2FvtnPLpREKjykIJA)
+- *2025.08*: &nbsp;🎉🎉 Our collaborative technical report with the <span style="color:#f4b400;">**Seed Team**</span>, <span style="color:#a4dded;">**StructVRM**</span>, has been released! This work focuses on deep thinking in large models and achieves remarkable performance in mathematical and scientific reasoning. [Paper link](https://arxiv.org/pdf/2508.05383) | [Results link](https://mp.weixin.qq.com/s/fI8Xx2FvtnPLpREKjykIJA).
 - *2025.07*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Scientific reasoning**</span> has been accepted by <span style="color:#a4dded;">**ACM Multimedia 2025**</span>.
-<!-- - *2025.06*: &nbsp;🎉🎉 I joined the <span style="color:#f4b400;">**Seed Team**</span> in April 2025! Congrats to our <span style="color:#f4b400;">**Deep Thinking LLM**</span> for successfully launching and achieving impressive results in the Gaokao! [PR link](https://mp.weixin.qq.com/s/fI8Xx2FvtnPLpREKjykIJA). -->
 - *2025.05*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought Verification**</span> has been accepted by <span style="color:#a4dded;">**ACL 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Sketch-to-Diagram**</span> has been accepted by <span style="color:#a4dded;">**IJCAI 2025**</span>.
 - *2025.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Chinese Multimodal Attribute Extraction**</span> has been accepted by <span style="color:#a4dded;">**ICIC 2025**</span>.
@@ -39,6 +38,7 @@ Feel free to contact me via email for academic discussions or internship opportu
 - *2024.06*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**A Survey on Multimodal Large Model Applications**</span> is accepted by <span style="color:#a4dded;">**CIBM**</span>.  
 - *2024.05*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Interpretable and Generalizable Spatiotemporal Learning**</span> is accepted by <span style="color:#a4dded;">**ECML-PKDD 2024**</span>.  
 - *2024.04*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Knowledge Distillation**</span> is accepted by <span style="color:#a4dded;">**IJCAI 2024**</span>.  
+<!-- - *2025.06*: &nbsp;🎉🎉 I joined the <span style="color:#f4b400;">**Seed Team**</span> in April 2025! Congrats to our <span style="color:#f4b400;">**Deep Thinking LLM**</span> for successfully launching and achieving impressive results in the Gaokao! [PR link](https://mp.weixin.qq.com/s/fI8Xx2FvtnPLpREKjykIJA). -->
 
 # 📝 Publications 
 <div style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 30px; gap: 20px; width: 100%;">
