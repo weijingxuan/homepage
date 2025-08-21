@@ -25,6 +25,7 @@ Feel free to contact me via email for academic discussions or internship opportu
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**ChartMind (Chart Question Answering)**</span> has been accepted by <span style="color:#a4dded;">**EMNLP 2025**</span>.
 - *2025.08*: &nbsp;🎉🎉 Our collaborative technical report with the <span style="color:#f4b400;">**Seed Team**</span>, <span style="color:#a4dded;">**StructVRM**</span>, has been released! This work focuses on deep thinking in large models and achieves remarkable performance in mathematical and scientific reasoning. [Paper link](https://arxiv.org/pdf/2508.05383), [Results link](https://mp.weixin.qq.com/s/fI8Xx2FvtnPLpREKjykIJA).
 - *2025.07*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Scientific reasoning**</span> has been accepted by <span style="color:#a4dded;">**ACM Multimedia 2025**</span>.
 - *2025.05*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Multimodal Chain-of-Thought Verification**</span> has been accepted by <span style="color:#a4dded;">**ACL 2025**</span>.
