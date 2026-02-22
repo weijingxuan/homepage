@@ -25,6 +25,9 @@ Feel free to contact me via email for academic discussions or internship opportu
 
 
 # 🔥 News
+- *2026*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Geoint-R1 (Formal Multimodal Geometric Reasoning)**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2026**</span>.
+- *2026*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**GGBench (Geometric Generative Reasoning Benchmark for Unified Multimodal Models)**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2026**</span>.
+- *2026*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**DoGe (Data-Scarce Vision-Language Reasoning)**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2026**</span>.
 - *2025.08*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**mChartQA (Chart Question Answering)**</span> has been accepted by <span style="color:#a4dded;">**Pattern Recognition**</span>.
 - *2025.08*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**ChartMind (Chart Question Answering)**</span> has been accepted by <span style="color:#a4dded;">**EMNLP 2025**</span>.
 - *2025.08*: &nbsp;🎉🎉 Our collaborative technical report with the <span style="color:#f4b400;">**Seed Team**</span>, <span style="color:#a4dded;">**StructVRM**</span>, has been released! This work focuses on deep thinking in large models and achieves remarkable performance in mathematical and scientific reasoning. [Paper link](https://arxiv.org/pdf/2508.05383), [Results link](https://mp.weixin.qq.com/s/fI8Xx2FvtnPLpREKjykIJA).
