@@ -25,6 +25,7 @@ Feel free to contact me via email for academic discussions or internship opportu
 
 
 # 🔥 News
+- *2026*: &nbsp;🔥 Our new paper <span style="color:#a4dded;">**The Trinity of Consistency as a Defining Principle for General World Models**</span> is available on <span style="color:#a4dded;">**arXiv 2026**</span>. We are grateful for the inspiring collaboration with researchers from <span style="color:#a4dded;">**University of Chinese Academy of Sciences**</span>, <span style="color:#a4dded;">**Shanghai AI Lab**</span>, <span style="color:#a4dded;">**Westlake University**</span>, <span style="color:#a4dded;">**Shanghai Jiao Tong University**</span>, <span style="color:#a4dded;">**National University of Singapore**</span>, among others.
 - *2026*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**Geoint-R1 (Formal Multimodal Geometric Reasoning)**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2026**</span>.
 - *2026*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**GGBench (Geometric Generative Reasoning Benchmark for Unified Multimodal Models)**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2026**</span>.
 - *2026*: &nbsp;🎉🎉 One paper on <span style="color:#a4dded;">**DoGe (Data-Scarce Vision-Language Reasoning)**</span> has been accepted by <span style="color:#a4dded;">**CVPR 2026**</span>.
