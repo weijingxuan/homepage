@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year student in the master’s-doctoral combined program at the University of Chinese Academy of Sciences (2020–present). My research interests include multimodal large model reasoning, multimodal agent reasoning, and knowledge distillation.
+I am an Associate Professor at Shandong Computer Science Center (National Supercomputing Center in Jinan). My research focuses on trustworthy reasoning of large models, with particular interests in multimodal large model reasoning, multimodal agent reasoning, and knowledge distillation.
 
-Feel free to contact me via email for academic discussions or internship opportunities! I am expected to graduate in June 2026 and look forward to job opportunities.
+Feel free to contact me via email for academic discussions or potential collaborations.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -345,7 +345,6 @@ Feel free to contact me via email for academic discussions or internship opportu
 # 📖 Educations
 - *2023.03-present* Ph.D. in <span style="color: #007bff; font-weight: bold;">University of Chinese Academy of Sciences</span>.  Supervisor: <span style="color: #007bff; font-weight: bold;">Prof. Ruifeng Guo</span> and <span style="color: #007bff; font-weight: bold;">Prof. Bihui Yu</span>.  
 - *2020.09-2022.12* M.S. in <span style="color: #007bff; font-weight: bold;">University of Chinese Academy of Sciences</span>.  Supervisor: <span style="color: #007bff; font-weight: bold;">Prof. Bihui Yu</span>.  
-- *2016.09-2020.06* B.S. in <span style="color: #007bff; font-weight: bold;">Inner Mongolia University of Science and Technology</span>.  Ranks first in the major and college.
 
 <!-- # 💬 Invited Talks -->
 # 🛠 Services
