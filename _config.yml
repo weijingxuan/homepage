@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingxuan Wei(魏靖烜)"
-description              : "Ph.D. candidate at the University of Chinese Academy of Sciences, focusing on multimodal large model reasoning, multimodal agents, and knowledge distillation. "
+description: "I am a Specially Appointed Associate Professor in the Faculty of Computer Science and Technology at Qilu University of Technology, and I hold a Ph.D. from the University of Chinese Academy of Sciences. My research focuses on multimodal large model reasoning, agentic reasoning, and model compression."
 repository               : "weijingxuan/homepage"
 google_scholar_stats_use_cdn : true
 
