@@ -19,7 +19,7 @@ redirect_from:
 
 I am an Associate Professor at Shandong Computer Science Center (National Supercomputing Center in Jinan). My research focuses on trustworthy reasoning of large models, with particular interests in multimodal large model reasoning, multimodal agent reasoning, and knowledge distillation.
 
-Feel free to contact me via email for academic discussions or potential collaborations.
+Feel free to contact me via email for academic discussions or potential collaborations.(weijingxuan20@mails.ucas.edu.cn, WeChat:ethan_5856)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
