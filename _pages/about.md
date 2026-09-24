@@ -25,6 +25,9 @@ Feel free to contact me via email for academic discussions or potential collabor
 
 
 # 🔥 News
+- **2026**: &nbsp;🎉🎉 Our work <span style="color:#a4dded;">**PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control**</span> has been accepted by <span style="color:#a4dded;">**NeurIPS 2026**</span>.
+- **2026**: &nbsp;🎉🎉 Our work <span style="color:#a4dded;">**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**</span> has been accepted by <span style="color:#a4dded;">**NeurIPS 2026**</span>.
+- **2026**: &nbsp;🎉🎉 Our work <span style="color:#a4dded;">**TRACER: Verifiable Generative Provenance for Multimodal Tool-Using Agents**</span> has been accepted by <span style="color:#a4dded;">**NeurIPS 2026**</span>.
 - *2026*: &nbsp;🎉🎉 Our work <span style="color:#a4dded;">**Canvas-of-Thought: Grounding Reasoning via Mutable Structured States**</span> has been accepted by <span style="color:#a4dded;">**ACM Multimedia 2026**</span>. Congratulations to <span style="color:#a4dded;">**Linzhuang Sun**</span>!
 - *2026*: &nbsp;🎉🎉 Our work <span style="color:#a4dded;">**Guided Verifier: Collaborative Multimodal Reasoning via Dynamic Process Supervision**</span> has been accepted by <span style="color:#a4dded;">**ACM Multimedia 2026**</span>. Congratulations to <span style="color:#a4dded;">**Linzhuang Sun**</span>!
 - *2026*: &nbsp;🎉🎉 Our work <span style="color:#a4dded;">**How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning**</span>, conducted at <span style="color:#a4dded;">**ByteDance Seed**</span>, has been accepted by <span style="color:#a4dded;">**ICML 2026**</span> as a <span style="color:#a4dded;">**Spotlight Paper**</span> (**top 2.2% of all submissions**).
